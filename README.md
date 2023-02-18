@@ -29,3 +29,14 @@ If you're new to SlimeVR or if you are on a budget, I would recommend buying the
 # I'm still stuck. Can I have some help?
 If you need any assistance at all you can visit the SlimeVR Discord server at https://www.discord.com/invite/slimevr/. There are plenty of helpful people there willing to assist any newcomers to the hobby.
 The DIY docs may also be of use, you can find them at https://www.docs.slimevr.dev/.
+
+# Photo Gallery
+These are renders taken in Microsoft's 3D Builder software to show off the (awesome) design of the tracker cases.
+
+![Tracker Case (X-Ray)](/repository/assets/employee.png?raw=true "Employee Data title")
+
+![Tracker Case (Assembled)](/repository/assets/employee.png?raw=true "Employee Data title")
+
+![Extension Case (X-Ray)](/repository/assets/employee.png?raw=true "Employee Data title")
+
+![Extension Case (Assembled)](/repository/assets/employee.png?raw=true "Employee Data title")
