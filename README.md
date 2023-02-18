@@ -33,10 +33,10 @@ The DIY docs may also be of use, you can find them at https://www.docs.slimevr.d
 # Photo Gallery
 These are renders taken in Microsoft's 3D Builder software to show off the (awesome) design of the tracker cases.
 
-![Tracker Case (X-Ray)](/repository/assets/employee.png?raw=true "Employee Data title")
+![Tracker Case (X-Ray)](/images/case-xrayview.png?raw=true "Xray view of case")
 
-![Tracker Case (Assembled)](/repository/assets/employee.png?raw=true "Employee Data title")
+![Tracker Case (Assembled)](/images/case-assembledview.png?raw=true "Assembled view of case")
 
-![Extension Case (X-Ray)](/repository/assets/employee.png?raw=true "Employee Data title")
+![Extension Case (X-Ray)](/images/extension-xrayview.png?raw=true "Xray view of extension case")
 
-![Extension Case (Assembled)](/repository/assets/employee.png?raw=true "Employee Data title")
+![Extension Case (Assembled)](/images/extension-assembledview.png?raw=true "Assembled view of extension case")
